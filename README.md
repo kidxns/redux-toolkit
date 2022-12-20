@@ -1,13 +1,13 @@
-#This is mini react app includes redux-toolkit, ant design..
+# This is mini react app includes redux-toolkit, ant design..
 
-##Installation
+## Installation
 
 In the project directory, you can run:
 ### `npm install `
 
 To intall packages for project can be start.
 
-##Run the app
+## Run the app
 ### `npm start`
 
 Runs the app in the development mode.\
